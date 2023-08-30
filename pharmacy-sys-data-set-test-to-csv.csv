@@ -1,0 +1,73 @@
+drug expire date should be considered.
+"if drug expire date is illegal, then report to DFCA"
+record imported drugs from foreign countries.
+Load drug information in the computer including drug's expire date.
+doctors must give prescription and doctors must sign on prescription.
+doctors are responsible for sign on prescription.
+doctors are responsible to give dosage.
+doctors are also responsible to give schedule information for customers.
+customers buy drugs from drug stores
+customers must pay for the drug.
+customers are not allowed to buy drug without prescription.
+"pharmacy will be charged, if customers report expired drug."
+System must register expiration date
+"System must alert users, if drug expire date is approaching"
+"check payment modality for medicine by individual, company or insurance"
+check drug storage location or shelf number
+the system must register expiration date
+display all drugs
+total number of drugs in each medicine category
+signal minimum reorder level for each drug type
+show most frequently sold drugs
+show updated selling and buying price of drug items
+Compare drug items in storage and pharmacy's inventory with amount in stoke during procurement
+"Show medicinal categorization ( such as antibiotics, narcotics)"
+"register way of drug consumption (such as oral, injection)"
+capability to register and edit medicinal drug items
+capability to register non-medicinal(such as cosmetics) drug items
+
+show drug side effect
+
+facilitate search and entry of drug items alphabetically
+
+filter target medicinal items based on search parameters
+
+electrically refer request of pharmacy to medicinal storage after proper approval by pharmacy head
+
+management of drug with barcode
+
+adjust drug dose based on medicinal history and physiological parameter of patient
+
+the system must change units for consumption and suggest various options
+
+make online connection with provider order entry
+"System must alert effect of interaction of drug-drug, drug-food, drug-allergy"
+
+access to scientific sources such as review database and medical studies
+
+title of person writing prescription
+Show prescription type for special patients
+Show time interval between two prescriptions (might cause additional side effects)
+"must comply with regulatory parties, such as, DFCA (drug and food control agency)"
+accurate and safe prescription managements system
+The software is easily customizable
+capable of generating various reports.
+keeps a record of the supplier/manufacturer information from whom you buy the medicines/who is responsible for the manufacturing of those medicines.
+information about expired items that need to be destructed
+pharmacist
+pharmacy software system must have the feature to load an entire data from an Excel/CSV file
+must have e-Signature Capture to enable you to electronically track acknowledgment for each prescription.
+"Barcode based Point of Sale (POS) scanning, verification of dispensed product, which enhances efficiency and accuracy."
+Support interface from mobile phone
+Check confirmed medicinal producer with DFCA
+"Electronic notification or alerting to adverse drug reaction, medication error"
+Real time management reporting and trending capability that can be exported
+Support mobile solutions
+Integrated in-depth drug information
+pill imaging facility
+rx image scanning feature
+eSignature capture capability
+web portal capabilities
+electronic delivery tracking of drug items
+hard copies of documents storing and scanning
+automatic refill processing
